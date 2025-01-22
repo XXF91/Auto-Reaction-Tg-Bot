@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 
 const app = express(); 
 const port = process.env.PORT || 3000; 
-const BOT_TOKEN = '7445547849:AAE0i-w67vXqPqhIsEH66xeLCuLjQ2yYyfM'; 
+const BOT_TOKEN = '8188662940:AAGI8E34BmgzzB_Q1N-11MiMV1W2IJeIVUo'; 
 
 const emojis = ['😂', '👍', '❤️', '🔥', '👏', '🎉', '😎', '🥰', '❤️‍🔥', '⚡️', '🦋', '💃', '🕺', '💥', '✨', '⭐️', '💋', '👀', '💯']; 
 app.use(express.json()); 
